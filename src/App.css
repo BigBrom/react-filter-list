@@ -1,0 +1,14 @@
+.app {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background: rgb(240, 243, 245)
+}
+.app__content {
+  display: flex;
+}
+.list {
+  flex-grow: 1;
+  padding: 30px;
+  min-height: 100vh;
+}

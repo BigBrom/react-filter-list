@@ -1,0 +1,21 @@
+.filters {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+}
+.filters__input {
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 7px;
+    background: none;
+    margin-bottom: 15px;
+}
+.filters__select {
+    margin-left: 15px;
+    height: 30px;
+    border-color: #aaa;
+    background: none;
+    margin-bottom: 15px;
+}
